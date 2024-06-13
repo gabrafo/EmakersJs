@@ -1,6 +1,6 @@
 import React from 'react';
 import image from '../assets/image.png';
-import "../styles/RightPanel.css";
+import "../styles/components/RightPanel.css";
 
 const RightPanel = () => {
   return (

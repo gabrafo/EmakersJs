@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/Login.css"
+import "../styles/pages/Login.css"
 import RightPanel from '../components/RightPanel';
 import ArrowButton from '../components/ArrowButton';
 

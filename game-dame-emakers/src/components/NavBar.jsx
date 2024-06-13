@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/NavBar.css"
+import "../styles/components/NavBar.css"
 import icon from "../assets/icon.png"
 import separator from "../assets/separator.png";
 import magnifier from "../assets/lupa.png"

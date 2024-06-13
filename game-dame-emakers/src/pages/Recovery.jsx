@@ -1,5 +1,5 @@
 import React from 'react';
-import "../styles/Recovery.css"
+import "../styles/pages/Recovery.css"
 import RightPanel from '../components/RightPanel';
 import ArrowButton from '../components/ArrowButton';
 

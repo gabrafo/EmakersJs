@@ -29,10 +29,14 @@ const Carousel = () => {
         </div>
 
         <div className="triangle">
-            <div className="line1"></div>
-            <div className="line2"></div>
-            <div className="line3"></div>
-            <div className="line4"></div>
+            <button className="back_button">
+                <div className="line1"></div>
+                <div className="line2"></div>
+            </button>
+            <button className="forward_button">
+                <div className="line3"></div>
+                <div className="line4"></div>
+            </button>
         </div>
 
         <div className="ellipse-div">

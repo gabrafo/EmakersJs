@@ -19,7 +19,7 @@ const Login = () => {
         </div>
 
         <div className="indexPage">
-          <a href="/index">
+          <a href="/homepage">
             <div className="arrow-div">
               <ArrowButton />
             </div>
@@ -39,7 +39,7 @@ const Login = () => {
       </div>
 
       <RightPanel />
-  </div>
+    </div>
   )
 }
 

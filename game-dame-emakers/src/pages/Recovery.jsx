@@ -21,7 +21,7 @@ const Recovery = () => {
         </div>
 
         <div className="indexPage">
-          <a href="/index">
+          <a href="/homepage">
             <div className="arrow-div">
               <ArrowButton />
             </div>

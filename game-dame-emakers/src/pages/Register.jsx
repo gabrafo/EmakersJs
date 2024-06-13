@@ -5,12 +5,12 @@ import ArrowButton from '../components/ArrowButton';
 
 const Register = () => {
   return (
-    <div className='full-panel'>
+    <div className='full_panel'>
 
-      <div className='left-panel'>
+      <div className='left_panel'>
 
-        <div className='register-title'>
-          <h1 className='fine-text'>Registrar</h1>
+        <div className='register_title'>
+          <h1 className='fine_text'>Registrar</h1>
         </div>
 
         <div className="forms">
@@ -23,15 +23,15 @@ const Register = () => {
 
         <div className="login">
           <a href="/login">
-            <div className="arrow-div">
+            <div className="arrow_div">
               <ArrowButton />
             </div>
           </a>
         </div>
 
-        <div className="login-div">
+        <div className="login_div">
           <a href="/login">
-            <div className="login-container">Fazer Login</div>
+            <div className="login_container">Fazer Login</div>
           </a>
         </div>
 

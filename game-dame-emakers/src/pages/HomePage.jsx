@@ -1,13 +1,14 @@
 import React from 'react';
-import "../styles/pages/HomePage.css"
 import NavBar from "../components/NavBar";
 import Carousel from '../components/Carousel';
+import Releases from "../components/Releases";
 
 const HomePage = () => {
   return (
-    <div className='full-panel'>
+    <div className='full_panel'>
       <NavBar />
       <Carousel />
+      <Releases />
     </div>
   )
 }

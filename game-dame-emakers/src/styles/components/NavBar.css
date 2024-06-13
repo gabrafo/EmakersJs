@@ -42,7 +42,7 @@
     color: #4B626C;
 }
 
-.search-box {
+.search_box {
     display: flex;
     position: absolute;
     margin-left: auto;
@@ -61,7 +61,7 @@
     padding: 5px 10px;
 }
 
-#search-button {
+#search_button {
     position: absolute;
     top:10%;
     left: 80%;
@@ -74,6 +74,6 @@
 }
 
 
-.search-box button:hover {
+.search_box button:hover {
     background: transparent;
 }

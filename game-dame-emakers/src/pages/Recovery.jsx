@@ -5,30 +5,30 @@ import ArrowButton from '../components/ArrowButton';
 
 const Recovery = () => {
   return (
-    <div className='full-panel'>
+    <div className='full_panel'>
 
-      <div className='left-panel'>
+      <div className='left_panel'>
 
-        <div className='recovery-title'>
-          <h1 className='fine-text'>Recuperar
+        <div className='recovery_title'>
+          <h1 className='fine_text'>Recuperar
             <br />
             Conta
           </h1>
         </div>
 
-        <div className="recovery-forms">
+        <div className="recovery_forms">
           <input className="email" type="email" placeholder="E-mail"></input>
         </div>
 
         <div className="indexPage">
           <a href="/homepage">
-            <div className="arrow-div">
+            <div className="arrow_div">
               <ArrowButton />
             </div>
           </a>
         </div>
 
-        <div className="footer-recovery-div">
+        <div className="footer_recovery_div">
             <a href="/">
                 Criar Conta
             </a>

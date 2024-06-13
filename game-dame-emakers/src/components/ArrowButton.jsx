@@ -3,7 +3,7 @@ import "../styles/components/ArrowButton.css";
 
 const ArrowButton = () => {
   return (
-    <button className='arrow-button'></button>
+    <button className='arrow_button'></button>
   );
 }
 

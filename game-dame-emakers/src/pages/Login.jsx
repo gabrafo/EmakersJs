@@ -5,28 +5,28 @@ import ArrowButton from '../components/ArrowButton';
 
 const Login = () => {
   return (
-    <div className='full-panel'>
+    <div className='full_panel'>
 
-      <div className='left-panel'>
+      <div className='left_panel'>
 
-        <div className='login-title'>
-          <h1 className='fine-text'>Login</h1>
+        <div className='login_title'>
+          <h1 className='fine_text'>Login</h1>
         </div>
 
-        <div className="login-forms">
+        <div className="login_forms">
           <input className="email" type="email" placeholder="E-mail"></input>
           <input className="senha" type="password" placeholder="Senha"></input>
         </div>
 
         <div className="indexPage">
           <a href="/homepage">
-            <div className="arrow-div">
+            <div className="arrow_div">
               <ArrowButton />
             </div>
           </a>
         </div>
 
-        <div className="footer-div">
+        <div className="footer_div">
             <a href="/">
                 Criar Conta
             </a>

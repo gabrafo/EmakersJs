@@ -1,4 +1,4 @@
-.recovery-title{
+.recovery_title{
     text-align: center;
     font-family: 'Montserrat';
     font-size: 28px;
@@ -6,13 +6,13 @@
     position: relative;
 }
 
-.footer-recovery-div{
+.footer_recovery_div{
     position: absolute;
     bottom: 15%;
     right: 60%;
 }
 
-.footer-recovery-div a{
+.footer_recovery_div a{
     font-family: 'Montserrat';
     font-style: normal;
     font-weight: 600;

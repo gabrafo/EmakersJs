@@ -20,9 +20,9 @@ const NavBar = () => {
                 <img src={separator} alt="" />
                 <li><a href="#">Conta</a></li>
             </ul>
-            <div className="search-box">
+            <div className="search_box">
                 <input type="text" id="search"/>
-                <button type="submit" id='search-button'>
+                <button type="submit" id='search_button'>
                   <img src={magnifier} alt="" />
                 </button>
             </div>

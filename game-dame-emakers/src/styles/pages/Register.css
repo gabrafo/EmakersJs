@@ -3,14 +3,14 @@ body{
     overflow: hidden;
 }
 
-.full-panel{
+.full_panel{
     position: absolute;
     width: 100%;
     height: 100%;
     background-color: #FBF8F4;
 }
 
-.left-panel {
+.left_panel {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -21,14 +21,14 @@ body{
     padding: 20px;
 }
 
-.register-title{
+.register_title{
     font-family: 'Montserrat';
     font-size: 28px;
     color: #4B626C;
     position: relative;
 }
 
-.fine-text{
+.fine_text{
     font-weight: 400;
 }
 
@@ -40,16 +40,16 @@ body{
     gap:20px;
 }
 
-.arrow-div{
+.arrow_div{
     margin-top: 50px;
     margin-left: 330px;
 }
 
-.login-div a{
+.login_div a{
     text-decoration: none;
 }
 
-.login-container{
+.login_container{
     position: absolute;
     bottom: 15%;
     right: 60%;
@@ -63,7 +63,7 @@ body{
     color: #97A4A2;
   }
 
-.arrow-button::after{
+.arrow_button::after{
     content: '';
     position: relative;
     top: 50%;

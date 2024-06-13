@@ -1,4 +1,4 @@
-.arrow-button{
+.arrow_button{
     display: flex;
     position: relative;
     width: 60px;
@@ -8,7 +8,7 @@
     background-color: #FBF8F4;
 }
 
-.arrow-button::before{
+.arrow_button::before{
     content: '';
     position: relative;
     top: 50%;

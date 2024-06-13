@@ -1,7 +1,163 @@
-.realeses_panel{
+.releases_panel {
     position: absolute;
     width: 100%;
-    height: 315px;
-    bottom: 10%;
-    background-color: #4B626C;
+    height: 260px;
+    bottom: 0px;
+    background-color: #4B626C; /* Just for visual reference */
+}
+
+.releases_panel img{
+    height: 200px;
+}
+
+.price_bobesponja{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: 10px;
+    left: 110px;
+    border-radius: 5px;
+    background-color: white;
+    color: #4B626C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price_deliverus{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: 10px;
+    left: 435px;
+    border-radius: 5px;
+    background-color: white;
+    color: #4B626C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price_spellforce{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: 10px;
+    left: 740px;
+    border-radius: 5px;
+    background-color: white;
+    color: #4B626C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price_death{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: 10px;
+    left: 1040px;
+    border-radius: 5px;
+    background-color: white;
+    color: #4B626C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.price_perish{
+    position: absolute;
+    width: 80px;
+    height: 25px;
+    bottom: 10px;
+    left: 1370px;
+    border-radius: 5px;
+    background-color: white;
+    color: #4B626C;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.shopping_cart img{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 10px;
+    left: 1530px;
+    cursor: pointer;
+}
+
+#releases_txt{
+    position: relative;
+    bottom: 20px;
+    left: 100px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 39px;
+    /* identical to box height */
+    color: #FBF8F3;
+}
+
+#bobimg{
+    position: relative;
+    bottom: 40px;
+    left: 100px;
+}
+
+#deliverusimg{
+    position: relative;
+    bottom: 40px;
+    left: 275px;
+}
+
+#spellforceimg{
+    position: relative;
+    bottom: 40px;
+    left:425px;
+}
+
+#deathimg{
+    position: relative;
+    bottom: 40px;
+    left:575px;
+}
+
+#perishimg{
+    position: relative;
+    bottom: 40px;
+    left: 750px;
 }

@@ -1,0 +1,14 @@
+.right-panel {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: calc(100% - 650px);
+    height: 100%;
+  }
+  
+#img{
+    position: relative;
+    top: -16%;
+    width: 120%;
+    right: 10%;
+}

@@ -1,0 +1,24 @@
+.recovery-title{
+    text-align: center;
+    font-family: 'Montserrat';
+    font-size: 28px;
+    color: #4B626C;
+    position: relative;
+}
+
+.footer-recovery-div{
+    position: absolute;
+    bottom: 15%;
+    right: 60%;
+}
+
+.footer-recovery-div a{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+
+    color: #97A4A2;
+    text-decoration: none;
+}

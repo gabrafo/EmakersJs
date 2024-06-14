@@ -2,7 +2,7 @@ import { createBrowserRouter } from "react-router-dom";
 import Register from "./pages/Register.jsx";
 import Login from "./pages/Login.jsx";
 import Recovery from "./pages/Recovery.jsx";
-import HomePage from "./pages/HomePage.jsx";
+import Home from "./pages/Home.jsx";
 
 const router = createBrowserRouter([
     {
@@ -18,8 +18,8 @@ const router = createBrowserRouter([
         element: <Recovery />
     },
     {
-        path: "/homepage",
-        element: <HomePage />
+        path: "/home",
+        element: <Home />
     }
 ])
 

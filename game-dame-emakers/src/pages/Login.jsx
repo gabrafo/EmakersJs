@@ -18,8 +18,8 @@ const Login = () => {
           <input className="senha" type="password" placeholder="Senha"></input>
         </div>
 
-        <div className="indexPage">
-          <a href="/homepage">
+        <div className="home">
+          <a href="/home">
             <div className="arrow_div">
               <ArrowButton />
             </div>

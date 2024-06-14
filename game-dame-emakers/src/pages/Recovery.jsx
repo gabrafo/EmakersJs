@@ -20,8 +20,8 @@ const Recovery = () => {
           <input className="email" type="email" placeholder="E-mail"></input>
         </div>
 
-        <div className="indexPage">
-          <a href="/homepage">
+        <div className="home">
+          <a href="/home">
             <div className="arrow_div">
               <ArrowButton />
             </div>

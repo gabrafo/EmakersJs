@@ -1,0 +1,95 @@
+#gow_title{
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    top: -10px;
+    left: calc(100% - 203px);  
+    transform: translateX(-50%);
+    color: #FBF6F0;
+}
+
+#price_gow_game{
+    position: absolute;
+    top: 250px;
+    left: 200px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+
+    color: #FBF6F0;
+}
+
+#gow_text{
+    position: absolute;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    line-height: 29px;
+    top:44px;
+    width: 350px; 
+    left: calc(100% - 203px);  
+    transform: translateX(-50%);
+    text-align: center;
+
+    color: #FBF6F0;
+}
+
+#line_game{
+    position: inherit;
+    width: 333px;
+    left: calc(100% - 203px);  
+    transform: translateX(-50%);
+    top: 350px;
+
+    color: #FBF6F0;
+}
+
+#square_cart{
+    position: absolute;
+    left: calc(100% - 430px);  
+    transform: translateX(-50%);
+    top: 665px;
+    cursor: pointer;
+}
+
+#square_refund_cart{
+    position: absolute;
+    left: calc(100% - 430px);  
+    transform: translateX(-50%);
+    top: 705px;
+    cursor: pointer;
+}
+
+
+#rectangle_game{
+    top: 275px;
+    background-color: #4B626C;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.shopping_cart2{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    bottom: 10px;
+    left: 1560px;
+    cursor: pointer;
+}
+
+.shopping_cart2:hover {
+    transform: scale(1.1);
+}
+
+#ellipse_gow{
+    position: absolute;
+    top: 220px;
+    left: 180px;
+}

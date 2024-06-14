@@ -3,6 +3,7 @@ import Register from "./pages/Register.jsx";
 import Login from "./pages/Login.jsx";
 import Recovery from "./pages/Recovery.jsx";
 import Home from "./pages/Home.jsx";
+import Game from "./pages/Game.jsx";
 
 const router = createBrowserRouter([
     {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
     {
         path: "/home",
         element: <Home />
+    },
+    {
+        path: "/game",
+        element: <Game />
     }
 ])
 
